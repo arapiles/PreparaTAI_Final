@@ -6,4 +6,4 @@ Entrega final proyecto DAW
 
 This software and its source code are proprietary. Unauthorized copying, modification, distribution, or use is strictly prohibited.
 
-For commercial licensing inquiries, contact: [tu@email.com]
+For commercial licensing inquiries, contact: arapilesr@gmail.com
