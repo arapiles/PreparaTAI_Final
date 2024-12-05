@@ -28,7 +28,7 @@ Habilitar autenticación SQL Server y Windows
 
 ## 💾 Restaurar Base de Datos desde Backup
 
-En el aula virtual encontrarás en la copia de seguridad del codigo un archivo `.bak` que contiene una copia de seguridad de la base de datos.
+Por seguridad para no subir la base de datos a github. En el aula virtual encontrarás en la copia de seguridad del codigo dentro del rar un archivo `.bak` que contiene una copia de seguridad de la base de datos.
 
 ### Pasos para Restaurar
 
