@@ -11,25 +11,13 @@ Frontend de la aplicación web PreparaTAI. Desarrollado en VUE con composition A
 - Lucide Icons para iconografía
 - Axios para peticiones HTTP
 
-## 📂 Estructura del Proyecto
-frontend/
-├── src/
-│   ├── assets/          # Recursos estáticos
-│   ├── components/      # Componentes reutilizables
-│   │   ├── modals/     # Ventanas modales
-│   │   └── ui/         # Componentes de interfaz
-│   ├── services/       # Servicios de API
-│   ├── router/         # Configuración de rutas
-│   ├── views/          # Páginas/Vistas
-│   └── App.vue         # Componente raíz
-├── public/             # Archivos públicos
-└── package.json        # Dependencias y scripts
 
-
-## Instalar dependencias
+## Instalación
 
 > [!CAUTION]
 > Antes de empezar asegúrate de tener instalado Node.js
+
+### Instalar dependencias
 
 ```sh
 npm install
