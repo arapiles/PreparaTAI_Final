@@ -26,8 +26,10 @@ frontend/
 └── package.json        # Dependencias y scripts
 
 
-
 ## Instalar dependencias
+
+> [!CAUTION]
+> Antes de empezar asegúrate de tener instalado Node.js
 
 ```sh
 npm install
@@ -39,5 +41,3 @@ npm install
 npm run dev
 ```
 
-> [!CAUTION]
-> Antes de empezar asegúrate de tener instalado Node.js
