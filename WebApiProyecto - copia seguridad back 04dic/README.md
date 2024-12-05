@@ -17,7 +17,7 @@ Backend de la aplicación web PreparaTAI. Desarrollado en .NET
 - CORS habilitado para seguridad
 
 
-# 📚 Configuración de Base de Datos SQL Server
+## 📚 Configuración de Base de Datos SQL Server
 
 Preparar SQL Server
 
@@ -25,17 +25,6 @@ Instalar SQL Server (versión 2019 o superior)
 Asegurarse que SQL Server Browser esté en ejecución
 Habilitar autenticación SQL Server y Windows
 
-
-Configurar Cadena de Conexión
-
-Abrir appsettings.json
-Modificar la cadena de conexión:
-
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=TUSERVIDOR;Database=apitai;User Id=TUUSUARIO;Password=TUPASSWORD;TrustServerCertificate=True;"
-  }
-}
 
 ## 💾 Restaurar Base de Datos desde Backup
 
