@@ -1,29 +1,43 @@
-# hola-mundo
+# PreparaTAI Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Frontend de la aplicación web PreparaTAI. Desarrollado en VUE con composition API
 
-## Recommended IDE Setup
+## 🛠️ Tecnologías
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Vue.js 3 (Composition API)
+- Vue Router para navegación
+- CSS puro para estilos
+- SweetAlert2 para notificaciones
+- Lucide Icons para iconografía
+- Axios para peticiones HTTP
 
-## Customize configuration
+## 📂 Estructura del Proyecto
+frontend/
+├── src/
+│   ├── assets/          # Recursos estáticos
+│   ├── components/      # Componentes reutilizables
+│   │   ├── modals/     # Ventanas modales
+│   │   └── ui/         # Componentes de interfaz
+│   ├── services/       # Servicios de API
+│   ├── router/         # Configuración de rutas
+│   ├── views/          # Páginas/Vistas
+│   └── App.vue         # Componente raíz
+├── public/             # Archivos públicos
+└── package.json        # Dependencias y scripts
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+
+## Instalar dependencias
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Iniciar servidor de desarrollo
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+> [!CAUTION]
+> Antes de empezar asegúrate de tener instalado Node.js

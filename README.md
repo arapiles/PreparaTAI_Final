@@ -53,7 +53,7 @@ Este software y su código fuente son propietarios. La copia, modificación, dis
 
 Para más información o soporte:
 - Email: arapilesr@gmail.com
-- LinkedIn: [PreparaTAI](https://www.linkedin.com/in/ruben-arapiles)
+- LinkedIn: [Ruben](https://www.linkedin.com/in/ruben-arapiles)
 
 ## 📦 Instalación
 
